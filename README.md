@@ -2,6 +2,7 @@
 
 > Markdown/CommonMark y comprobación de estilo para Visual Studio Code
 > Esta es una traducción del original: <https://github.com/DavidAnson/vscode-markdownlint/blob/main/README.md>
+>
 > La motivación de la traducción obedece a dos razones. La primera en aprender el marcado Markdown y Visual Code y la segunda proveer una traducción del documento para quien lo necesite.
 
 ## Introducción
