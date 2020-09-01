@@ -93,9 +93,10 @@ Para más información sobre una advertencia de markdownlint, coloca el cursor e
 
 <!---
 CMD-TODO: Hay que reemplzar el vínculo de abajo por uno que rediriga al respositio de Github
+CMD-HECHO
 -->
 
-Vea en [la reglas de markdownlint en el archivo reglas.md](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md) para mayor detalles.
+Vea en [la reglas de markdownlint en el archivo reglas.md](https://github.com/dagorret/vscode-markdownlint-es/blob/master/Reglas.md) para mayor detalles.
 
 The following rules can be automatically fixed by moving the cursor to a rule violation (wavy underlined text) and typing `Ctrl+.` or clicking the light bulb icon.
 

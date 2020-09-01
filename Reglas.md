@@ -1,1 +1,3 @@
-# Para hacer
+# Reglas
+
+Para hacer
