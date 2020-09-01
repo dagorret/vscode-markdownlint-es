@@ -6,11 +6,12 @@
 > La motivación de la traducción obedece a dos razones. La primera en aprender el marcado Markdown y Visual Code y la segunda proveer una traducción del documento para quien lo necesite.
 
 ## Introducción
-El lenguaje de marcas [Markdown](https://es.wikipedia.org/wiki/Markdown) está diseñado para ser fácil de leer, escribir y entender. Tiene un gran éxito, y su flexibilidad es tanto un beneficio como un inconveniente. 
+
+El lenguaje de marcas [Markdown](https://es.wikipedia.org/wiki/Markdown) está diseñado para ser fácil de leer, escribir y entender. Tiene un gran éxito, y su flexibilidad es tanto un beneficio como un inconveniente.
 
 Muchos estilos son posibles, por lo que el formato puede ser inconsistente. Algunas construcciones no funcionan bien en todos los analizadores y deben evitarse. Por ejemplo, [aquí hay algunas construcciones de Markdown comunes y problemáticas](https://gist.github.com/DavidAnson/006a6c2a2d9d7b21b025).
 
-[Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) es una extensión del código de Visual Studio que incluye una biblioteca de reglas para fomentar los estándares y la coherencia de los archivos Markdown. 
+[Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) es una extensión del código de Visual Studio que incluye una biblioteca de reglas para fomentar los estándares y la coherencia de los archivos Markdown.
 
 Está potenciado por [Markdownlint para Node.js](https://github.com/DavidAnson/markdownlint) que se basa en [Markdownlint para Ruby](https://github.com/mivok/markdownlint).
 
@@ -34,7 +35,7 @@ Está potenciado por [Markdownlint para Node.js](https://github.com/DavidAnson/m
 
 ## Uso
 
-Cuando se edita un archivo de Markdown en Code con markdownlint instalado, cualquier línea que viole una de las reglas de markdownlint (ver más abajo) se activará una *Advertencia* en el editor. 
+Cuando se edita un archivo de Markdown en Code con markdownlint instalado, cualquier línea que viole una de las reglas de markdownlint (ver más abajo) se activará una *Advertencia* en el editor.
 
 Las advertencias se indican con un subrayado verde ondulado y también pueden verse pulsando "Ctrl+Shift+M" para abrir el diálogo de errores y advertencias.
 
