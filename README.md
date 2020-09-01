@@ -31,3 +31,15 @@ Está potenciado por [Markdownlint para Node.js](https://github.com/DavidAnson/m
 
 1. Abra una línea de comandos
 2. Ejecuta `code --install-extension DavidAnson.vscode-markdownlint`
+
+## Uso
+
+Cuando se edita un archivo de Markdown en Code con markdownlint instalado, cualquier línea que viole una de las reglas de markdownlint (ver más abajo) se activará una *Advertencia* en el editor. 
+
+Las advertencias se indican con un subrayado verde ondulado y también pueden verse pulsando "Ctrl+Shift+M" para abrir el diálogo de errores y advertencias.
+
+Pase el puntero del ratón por encima de una línea verde para ver la advertencia o presione "F8" y "Shift+F8" para recorrer todas las advertencias (las advertencias de markdownlint comienzan todas con "MD").
+
+Para más información sobre una advertencia de markdownlint, coloca el cursor en una línea y haz clic en el icono de la bombilla o presiona "Ctrl+" para abrir el diálogo de acción de código. Haciendo clic en una de las advertencias del diálogo se mostrará la entrada de ayuda de esa regla en el navegador web predeterminado.
+
+> Para un tutorial, por favor vea [Build an Amazing Markdown Editor Using Visual Studio Code and Pandoc](https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/) de Dave Johnson.
